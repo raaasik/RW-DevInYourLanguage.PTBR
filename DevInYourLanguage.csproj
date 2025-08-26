@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <LangVersion>12.0</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include=".\libs\0Harmony.dll" />
+    <Reference Include=".\libs\Assembly-CSharp-firstpass.dll" />
+    <Reference Include=".\libs\Assembly-CSharp.dll" />
+    <Reference Include=".\libs\UnityEngine.CoreModule.dll" />
+    <Reference Include=".\libs\UnityEngine.dll" />
+    <Reference Include=".\libs\UnityEngine.IMGUIModule.dll" />
+    <Reference Include=".\libs\UnityEngine.TextCoreFontEngineModule.dll" />
+    <Reference Include=".\libs\UnityEngine.TextCoreTextEngineModule.dll" />
+    <Reference Include=".\libs\UnityEngine.TextRenderingModule.dll" />
+    <Reference Include=".\libs\UnityEngine.UIModule.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DIYL.cs" />
+  </ItemGroup>
+</Project>
