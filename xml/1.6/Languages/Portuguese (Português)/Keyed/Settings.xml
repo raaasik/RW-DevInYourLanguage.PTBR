@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EnableDamage>Ativar dano</EnableDamage>
+  <EnablePlayerDamage>Ativar dano do jogador</EnablePlayerDamage>
+  <EnableRandomMentalStates>Ativar estados mentais aleatórios</EnableRandomMentalStates>
+  <EnableStoryteller>Ativar narrador</EnableStoryteller>
+  <EnableRandomDiseases>Ativar doenças aleatórias</EnableRandomDiseases>
+  <EnableTranslationWindowInEnglish>Ativar janela de tradução em inglês</EnableTranslationWindowInEnglish>
+  <GodMode>Modo deus</GodMode>
+  <DevPalette>Paleta do desenvolvedor</DevPalette>
+  <PauseOnError>Pausar em erro</PauseOnError>
+  <NoAnimals>Sem animais</NoAnimals>
+  <UnlimitedPower>Energia ilimitada</UnlimitedPower>
+  <PathThroughWalls>Caminho através de paredes</PathThroughWalls>
+  <InstantRecruit>Recrutamento instantâneo</InstantRecruit>
+  <AlwaysSocialFight>Sempre briga social</AlwaysSocialFight>
+  <AlwaysDoLovin>Sempre fazer amor</AlwaysDoLovin>
+  <DetectRegionListersBugs>Detectar erros de RegionListers</DetectRegionListersBugs>
+  <InstantVisitorsGift>Presente de visitantes instantâneo</InstantVisitorsGift>
+  <LowFPS>FPS baixo</LowFPS>
+  <AllowUndraftedMechOrders>Permitir pedidos de mecanóides não mobilizados</AllowUndraftedMechOrders>
+  <EditableGlowerColors>Cores de brilho editáveis sem pesquisa</EditableGlowerColors>
+  <ShowHiddenPawns>Mostrar personagens ocultos</ShowHiddenPawns>
+  <ShowHiddenInfo>Mostrar informações ocultas</ShowHiddenInfo>
+  <AnomalyDarkeningFX>Anomalia DarkeningFX</AnomalyDarkeningFX>
+  <FastResearch>Pesquisa rápida</FastResearch>
+  <FastLearning>Aprendizado rápido</FastLearning>
+  <FastEcology>Ecologia rápida</FastEcology>
+  <FastEcologyRegrowRateOnly>Ecologia rápida (apenas taxa de crescimento)</FastEcologyRegrowRateOnly>
+  <FastCrafting>Artesanato rápido</FastCrafting>
+  <FastCaravans>Caravanas rápidas</FastCaravans>
+  <FastMapUnpollution>Despoluição do mapa rápida</FastMapUnpollution>
+  <ActivateAllBuildingDemands>Ativar todas as demandas de construção</ActivateAllBuildingDemands>
+  <ActivateAllIdeoRoles>Ativar todos os papéis ideológicos</ActivateAllIdeoRoles>
+  <ShowLocomotionUrgency>Mostrar urgência de locomoção</ShowLocomotionUrgency>
+  <PlayRitualAmbience>Reproduzir som ambiente do ritual</PlayRitualAmbience>
+  <SimulateUsingSteamDeck>Simular uso do Steam Deck</SimulateUsingSteamDeck>
+  <LogRaidInfo>Registrar informações de ataque</LogRaidInfo>
+  <LogTranslationLookupErrors>Registrar erros de busca de tradução</LogTranslationLookupErrors>
+  <LogPsychicRitualTransitions>Registrar transições de ritual psíquico</LogPsychicRitualTransitions>
+  <FastMonolithRespawn>Reaparição rápida de monólitos</FastMonolithRespawn>
+  <SearchIgnoresRestrictions>Pesquisa ignora restrições</SearchIgnoresRestrictions>
+  <AlwaysRareCatches>Sempre peixes raros da pesca</AlwaysRareCatches>
+  <AlwaysNegativeCatches>Resultado sempre negativo da pesca</AlwaysNegativeCatches>
+  <LogMismatchedLayoutFactions>Registrar facção com layout desajustado</LogMismatchedLayoutFactions>
+  <LoopGravshipCutscene>Repetir cinemática da nave de gravidade</LoopGravshipCutscene>
+  <SkipGravshipTileSelection>Pular seleção de destino da nave de gravidade</SkipGravshipTileSelection>
+  <IgnoreGravshipRange>Ignorar alcance de viagem da nave de gravidade</IgnoreGravshipRange>
+  <DrawFog>Desenhar nevoeiro</DrawFog>
+  <DrawSnow>Desenhar neve</DrawSnow>
+  <DrawSand>Desenhar areia</DrawSand>
+  <DrawTerrain>Desenhar terreno</DrawTerrain>
+  <DrawTerrainWater>Desenhar água</DrawTerrainWater>
+  <DrawThingsDynamic>Desenhar coisas dinâmicas</DrawThingsDynamic>
+  <DrawThingsPrinted>Desenhar coisas impressas</DrawThingsPrinted>
+  <DrawShadows>Desenhar sombras</DrawShadows>
+  <DrawLightingOverlay>Desenhar sobreposição de iluminação</DrawLightingOverlay>
+  <DrawWorldOverlays>Desenhar sobreposições mundiais</DrawWorldOverlays>
+  <DrawGas>Desenhar gás</DrawGas>
+  <SingleThreadedDrawing>Desenho com thread único</SingleThreadedDrawing>
+  <DrawWorldObjects>Desenhar objetos mundiais</DrawWorldObjects>
+  <DrawPaths>Desenhar caminhos</DrawPaths>
+  <DrawPatherState>Desenhar estado do navegador de caminho</DrawPatherState>
+  <DrawCastPositionSearch>Desenhar busca de posição de lançamento</DrawCastPositionSearch>
+  <DrawDestSearch>Desenhar busca de destino</DrawDestSearch>
+  <DrawStyleSearch>Desenhar busca de estilo</DrawStyleSearch>
+  <DrawSectionEdges>Desenhar bordas de seção</DrawSectionEdges>
+  <DrawRiverDebug>Desenhar depuração de rio</DrawRiverDebug>
+  <DrawRiverFlowDebug>Desenhar depuração de fluxo de rio</DrawRiverFlowDebug>
+  <DrawPawnDebug>Desenhar depuração de personagem</DrawPawnDebug>
+  <DrawPawnRotatorTarget>Desenhar alvo do rotador de personagem</DrawPawnRotatorTarget>
+  <DrawRegions>Desenhar regiões</DrawRegions>
+  <DrawRegionLinks>Desenhar links de região</DrawRegionLinks>
+  <DrawRegionDirties>Destacar atualização de região</DrawRegionDirties>
+  <DrawRegionTraversal>Destacar travessia de região</DrawRegionTraversal>
+  <DrawRegionThings>Destacar coisas em região</DrawRegionThings>
+  <DrawDistricts>Desenhar distritos</DrawDistricts>
+  <DrawRooms>Desenhar salas</DrawRooms>
+  <DrawPower>Desenhar energia</DrawPower>
+  <DrawPowerNetGrid>Desenhar grade de rede de energia</DrawPowerNetGrid>
+  <DrawOpportunisticJobs>Desenhar trabalhos oportunistas</DrawOpportunisticJobs>
+  <DrawTooltipEdges>Desenhar bordas de dica de ferramenta</DrawTooltipEdges>
+  <DrawRecordedNoise>Desenhar ruído registrado</DrawRecordedNoise>
+  <DrawFoodSearchFromMouse>Desenhar busca de alimento do mouse</DrawFoodSearchFromMouse>
+  <DrawPreyInfo>Desenhar informações de presa</DrawPreyInfo>
+  <DrawGlow>Desenhar brilho</DrawGlow>
+  <DrawAvoidGrid>Desenhar grade de evitação</DrawAvoidGrid>
+  <DrawBreachingGrid>Desenhar grade de invasão</DrawBreachingGrid>
+  <DrawBreachingNoise>Desenhar ruído de invasão</DrawBreachingNoise>
+  <DrawLords>Desenhar lordes</DrawLords>
+  <DrawDuties>Desenhar deveres</DrawDuties>
+  <DrawShooting>Desenhar disparo</DrawShooting>
+  <DrawInfestationChance>Desenhar chance de infestação</DrawInfestationChance>
+  <DrawFleshmassHeartChance>Desenhar chance de coração de massa de carne</DrawFleshmassHeartChance>
+  <DrawStealDebug>Desenhar depuração de roubo</DrawStealDebug>
+  <DrawDeepResources>Desenhar recursos profundos</DrawDeepResources>
+  <DrawAttackTargetScores>Desenhar pontuações de alvo de ataque</DrawAttackTargetScores>
+  <DrawFOVSymmetry>Desenhar campo de visão</DrawFOVSymmetry>
+  <DrawNonCombatantTimer>Desenhar temporizador de não-combatentes</DrawNonCombatantTimer>
+  <DrawInteractionCells>Desenhar células de interação</DrawInteractionCells>
+  <DrawDoorsDebug>Desenhar depuração de portas</DrawDoorsDebug>
+  <DrawDestReservations>Desenhar reservas de destino</DrawDestReservations>
+  <DrawDamageRects>Desenhar retângulos de dano</DrawDamageRects>
+  <!-- Unused -->
+  <DrawDissolutionCells>Desenhar células de dissolução</DrawDissolutionCells>
+  <!-- Unused -->
+  <DrawUnpollutionCells>Desenhar células de despoluição</DrawUnpollutionCells>
+  <DrawHateChanterPositions>Desenhar posições de cantor de ódio</DrawHateChanterPositions>
+  <DrawDarknessOverlay>Desenhar sobreposição de escuridão</DrawDarknessOverlay>
+  <DrawWoundAnchorsOnHover>Desenhar âncoras de ferida ao passar</DrawWoundAnchorsOnHover>
+  <DrawMapGraphs>Desenhar gráficos de mapa</DrawMapGraphs>
+  <DrawMapRooms>Desenhar salas de mapa</DrawMapRooms>
+  <DrawIndoorMask>Desenhar máscara interna</DrawIndoorMask>
+  <DrawOutdoorMask>Desenhar máscara externa</DrawOutdoorMask>
+  <DrawShamblerAlertMote>Desenhar motivo de alerta de shambler</DrawShamblerAlertMote>
+  <DrawWaterBodies>Desenhar corpos de água</DrawWaterBodies>
+  <DrawMeltingIce>Desenhar gelo derretendo</DrawMeltingIce>
+  <DrawUsedRects>Desenhar retângulos usados</DrawUsedRects>
+  <DrawRoadPaths>Desenhar caminhos de estrada</DrawRoadPaths>
+  <DrawGravshipMask>Desenhar máscara de nave de gravidade</DrawGravshipMask>
+  <DrawTerrainCurtain>Desenhar cortina de terreno</DrawTerrainCurtain>
+  <WriteGame>Inspecionar jogo</WriteGame>
+  <WriteSteamItems>Inspecionar itens do Steam</WriteSteamItems>
+  <WriteConcepts>Inspecionar conceitos</WriteConcepts>
+  <WriteReservations>Inspecionar reservas</WriteReservations>
+  <WritePathCosts>Inspecionar custos de caminho</WritePathCosts>
+  <WriteFertility>Inspecionar fertilidade</WriteFertility>
+  <WriteLinkFlags>Inspecionar sinalizadores de link</WriteLinkFlags>
+  <WriteCover>Inspecionar cobertura</WriteCover>
+  <WriteCellContents>Inspecionar conteúdo de célula</WriteCellContents>
+  <WriteMusicManagerPlay>Inspecionar reprodução do gerenciador de música</WriteMusicManagerPlay>
+  <WriteStoryteller>Inspecionar narrador</WriteStoryteller>
+  <WritePlayingSounds>Inspecionar sons tocando</WritePlayingSounds>
+  <WriteSoundEventsRecord>Inspecionar registro de eventos de som</WriteSoundEventsRecord>
+  <WriteMoteSaturation>Inspecionar saturação de motivo</WriteMoteSaturation>
+  <WriteSnowDepth>Inspecionar profundidade de neve</WriteSnowDepth>
+  <WriteSandDepth>Inspecionar profundidade de areia</WriteSandDepth>
+  <WriteEcosystem>Inspecionar ecossistema</WriteEcosystem>
+  <WriteRecentStrikes>Inspecionar ataques recentes</WriteRecentStrikes>
+  <WriteBeauty>Inspecionar beleza</WriteBeauty>
+  <WriteListRepairableBldgs>Inspecionar lista de construções reparáveis</WriteListRepairableBldgs>
+  <WriteListFilthInHomeArea>Inspecionar lista de sujeira na área inicial</WriteListFilthInHomeArea>
+  <WriteListHaulables>Inspecionar lista transportável</WriteListHaulables>
+  <WriteListMergeables>Inspecionar lista mesclável</WriteListMergeables>
+  <WriteTotalSnowDepth>Inspecionar profundidade total de neve</WriteTotalSnowDepth>
+  <WriteCanReachColony>Inspecionar acessibilidade da colônia</WriteCanReachColony>
+  <WriteMentalStateCalcs>Inspecionar cálculos de estado mental</WriteMentalStateCalcs>
+  <WriteWind>Inspecionar vento</WriteWind>
+  <WriteTerrain>Inspecionar terreno</WriteTerrain>
+  <WriteApparelScore>Inspecionar pontuação de vestiário</WriteApparelScore>
+  <WriteWorkSettings>Inspecionar configurações de trabalho</WriteWorkSettings>
+  <WriteSkyManager>Inspecionar gerenciador de céu</WriteSkyManager>
+  <WriteMemoryUsage>Inspecionar uso de memória</WriteMemoryUsage>
+  <WriteMapGameConditions>Inspecionar condições de jogo do mapa</WriteMapGameConditions>
+  <WriteAttackTargets>Inspecionar alvos de ataque</WriteAttackTargets>
+  <WriteRopesAndPens>Inspecionar cordas e cercas</WriteRopesAndPens>
+  <WriteRoomRoles>Inspecionar papéis de sala</WriteRoomRoles>
+  <LogIncapChance>Registrar chance de incapacidade (não usado)</LogIncapChance>
+  <LogInput>Registrar entrada</LogInput>
+  <LogApparelGeneration>Registrar geração de vestiário</LogApparelGeneration>
+  <LogLordToilTransitions>Registrar transições de trabalho do senhor</LogLordToilTransitions>
+  <LogGrammarResolution>Registrar resolução de gramática</LogGrammarResolution>
+  <LogCombatLogMouseover>Registrar passagem do mouse no registro de combate</LogCombatLogMouseover>
+  <LogCauseOfDeath>Registrar causa da morte</LogCauseOfDeath>
+  <LogMapLoad>Registrar carregamento de mapa</LogMapLoad>
+  <LogTutor>Registrar tutor</LogTutor>
+  <LogSignals>Registrar sinais</LogSignals>
+  <LogWorldPawnGC>Registrar recolha de lixo de personagem mundial</LogWorldPawnGC>
+  <LogTaleRecording>Registrar gravação de história</LogTaleRecording>
+  <LogHourlyScreenshot>Registrar captura de tela horária</LogHourlyScreenshot>
+  <LogFilthSummary>Registrar resumo de sujeira</LogFilthSummary>
+  <LogCarriedBetweenJobs>Registrar carregado entre trabalhos</LogCarriedBetweenJobs>
+  <LogComplexGenPoints>Registrar pontos de geração complexa</LogComplexGenPoints>
+  <SaveGravshipRenders>Salvar renderizações de nave de gravidade</SaveGravshipRenders>
+  <DebugApparelOptimize>Depuração de otimização de vestiário</DebugApparelOptimize>
+  <DisableGravshipRenderShader>Desativar shader de renderização de nave de gravidade</DisableGravshipRenderShader>
+  <ShowAllRoomStats>Mostrar todas as estatísticas de sala</ShowAllRoomStats>
+  <ShowFloatMenuWorkGivers>Mostrar menu flutuante de provedores de trabalho</ShowFloatMenuWorkGivers>
+  <NeverForceNormalSpeed>Nunca forçar velocidade normal</NeverForceNormalSpeed>
+  <ShowArchitectMenuOrder>Mostrar ordem de botão do menu de arquiteto</ShowArchitectMenuOrder>
+  <ShowTpsCounter>Mostrar TPS</ShowTpsCounter>
+  <ShowFpsCounter>Mostrar FPS</ShowFpsCounter>
+  <ShowMemoryInfo>Mostrar uso de memória</ShowMemoryInfo>
+  <PrefabCopyTerrain>Copiar terreno de prefab</PrefabCopyTerrain>
+  <PrefabCopyAllThings>Copiar todas as coisas de prefab</PrefabCopyAllThings>
+</LanguageData>

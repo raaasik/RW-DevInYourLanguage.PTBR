@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DebugMenu_Logs>Abrir o registro de depuração.</DebugMenu_Logs>
+  <DebugMenu_TweakValues>Abrir menu TweakValues.\n\nIsso permite que você altere valores internos.</DebugMenu_TweakValues>
+  <DebugMenu_DebugActions>Abrir menu de ações de depuração.\n\nIsso permite que você gere itens e force vários eventos.</DebugMenu_DebugActions>
+  <DebugMenu_ViewSettings>Abrir as configurações de visualização.\n\nIsso permite que você veja visuais de depuração especiais.</DebugMenu_ViewSettings>
+  <DebugMenu_DebugLogging>Abrir menu de registro de depuração.</DebugMenu_DebugLogging>
+  <DebugMenu_Inspector>Abrir o inspetor.\n\nIsso permite que você inspecione o que está acontecendo no jogo, até variáveis individuais.</DebugMenu_Inspector>
+  <DebugMenu_DevPalette>Alternar a paleta de desenvolvimento.\n\nPermite que você configure uma paleta de ações de depuração para facilitar o uso.</DebugMenu_DevPalette>
+  <DebugMenu_GodMode>Alternar modo deus.\n\nQuando o modo deus está ativado, você pode construir coisas instantaneamente, gratuitamente e desconstruir coisas que não são suas.</DebugMenu_GodMode>
+</LanguageData>

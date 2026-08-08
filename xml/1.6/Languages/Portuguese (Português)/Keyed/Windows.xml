@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <GearTab_AddToInventory>Dar um item...</GearTab_AddToInventory>
+  <GearTab_DamageRandomApparel>Danificar vestiário aleatório</GearTab_DamageRandomApparel>
+  <GearTab_SetPrimary>Definir equipamento primário...</GearTab_SetPrimary>
+  <GearTab_Wear>Dar um vestiário...</GearTab_Wear>
+
+  <HealthTab_AddHediff>Adicionar uma anomalia...</HealthTab_AddHediff>
+  <HealthTab_DebugTooltip>Dica de ferramenta de depuração</HealthTab_DebugTooltip>
+  <HealthTab_DebugTooltipDesc>Passe o mouse sobre anomalias na janela de saúde para obter informações extras de depuração sobre elas.</HealthTab_DebugTooltipDesc>
+  <HealthTab_ShowHidden>Mostrar anomalias ocultas</HealthTab_ShowHidden>
+</LanguageData>
